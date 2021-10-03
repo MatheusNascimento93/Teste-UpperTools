@@ -1,0 +1,10 @@
+C:\Users\matheus\Desktop\Uppertools\CadastroCNPJ\bin\Debug\CadastroCNPJ.exe.config
+C:\Users\matheus\Desktop\Uppertools\CadastroCNPJ\bin\Debug\CadastroCNPJ.exe
+C:\Users\matheus\Desktop\Uppertools\CadastroCNPJ\bin\Debug\CadastroCNPJ.pdb
+C:\Users\matheus\Desktop\Uppertools\CadastroCNPJ\obj\Debug\CadastroCNPJ.csprojAssemblyReference.cache
+C:\Users\matheus\Desktop\Uppertools\CadastroCNPJ\obj\Debug\CadastroCNPJ.FrmCadastroEmpresa.resources
+C:\Users\matheus\Desktop\Uppertools\CadastroCNPJ\obj\Debug\CadastroCNPJ.Properties.Resources.resources
+C:\Users\matheus\Desktop\Uppertools\CadastroCNPJ\obj\Debug\CadastroCNPJ.csproj.GenerateResource.cache
+C:\Users\matheus\Desktop\Uppertools\CadastroCNPJ\obj\Debug\CadastroCNPJ.csproj.CoreCompileInputs.cache
+C:\Users\matheus\Desktop\Uppertools\CadastroCNPJ\obj\Debug\CadastroCNPJ.exe
+C:\Users\matheus\Desktop\Uppertools\CadastroCNPJ\obj\Debug\CadastroCNPJ.pdb
